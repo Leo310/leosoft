@@ -7,6 +7,7 @@ include ('includes/header.html');
 <body>
 	<h1>Meine Webside</h1>
 	<p>testing script and keybind joooo</p>
+	<p>ganz viel lieber keyowah</p>
 	<p>tjark dumm</p>
 	<a href="cam"><button>Kamera</button></a>
 	<form action="scr_aus.php" method="post">
