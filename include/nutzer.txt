@@ -1,0 +1,6 @@
+admin;$2y$10$umOP.8w6q74xWZbb1gHPTOHFvYi6AxiQEwwSooy8OrvlB9nitaA12;admin;ePRIK
+testuser;$2y$10$WoBQfVnADKI98lzq4smD1eUy7i/DDnVUXT.HHo/qtWfcOAnsT2.96;nutzer;YioMU
+user2;$2y$10$XQkx/9qhsQBH6qNs2mkdX.LhagTpr9yPALNT3uKgagziTmjG9aZYW;nutzer;acpxL
+user3;$2y$10$7h4pzUGhO57LUaHlKDC9B.JPKM0i392AIPjumWhRks3RKrzSPLXZu;nutzer;u1HBW
+user4;$2y$10$HPRpJaVQxeeJrek8NtJb8eLWEWS1.e24w3danLFY4pK4FxFJJnsPe;nutzer;FZZYB
+user5;$2y$10$pS84xWThhN5SW5vXDTxzVua/H3KMyMYF6iNg51lchTrx4CLC68Gb.;nutzer;LoDij
