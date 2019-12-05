@@ -6,6 +6,6 @@ include ('includes/header.html');
 
 	<body>
 		<h1>Meine Website</h1>
-		<a value="cam", href="https://leosoft.ddns.net/cam"></a>
+		<a href="https://leosoft.ddns.net/cam">Cam</a>
 	</body>
 </html>
