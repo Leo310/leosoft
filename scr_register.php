@@ -40,10 +40,10 @@ if(!$existent){
 	header("location:register.php");
 }
 
-function salt($länge = 5) {
+function salt($laenge = 5) {
 	$characters = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	$salt ="";
-	for($i = 0;$i < $länge;$i++) {
+	for($i = 0;$i < $laenge;$i++) {
 		$salt .= $characters[rand(0, strlen($characters) - 1)];
 	}
 	return $salt;
